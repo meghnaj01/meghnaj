@@ -1,5 +1,5 @@
 mountpoints:
   /:
     url: "https://author-p121603-e1341757-cmstg.adobeaemcloud.com/bin/franklin.delivery/meghnaj01/meghnaj/main"
-    type: "markup"meghnaj
+    type: "markup"
     suffix: ".html"
